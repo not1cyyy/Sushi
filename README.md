@@ -1,4 +1,4 @@
-# Sushi-
+# Sushi
 Sushi すし, a shared object written in C language to perform LPE (Local Privilege Escalation) within vulnerable UNIX kernels using the LD_PRELOAD check
 
 # Compile and run
